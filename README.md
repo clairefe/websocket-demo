@@ -1,1 +1,1 @@
-# websocket-demo
+# 简约版本聊天工具
